@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DiegoCR94
+- 👀 I’m interested in blockchaing
+- 🌱 I’m currently learning JavaScrip, Solana and frontend
