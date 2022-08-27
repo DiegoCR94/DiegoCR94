@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @DiegoCR94
 - 👀 I’m interested in blockchain
-- 🌱 I’m currently learning JavaScrip, Solana and frontend.
+- 🌱 I’m currently learning JavaScript, Solana and frontend.
